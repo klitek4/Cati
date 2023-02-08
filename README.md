@@ -30,4 +30,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <img src="https://media.discordapp.net/attachments/1054134269183791115/1073020176947228712/1675898325964.png">
 <br>
 <br>
-**SOON**!
+👀 <b>SOON!<b>
