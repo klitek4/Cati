@@ -3,7 +3,7 @@ Hi! Welcome on official <b>Cati</b> repository. In this repository you can get C
 <br>
 <br>
 <img src="https://media.discordapp.net/attachments/1054134269183791115/1073020177190506578/1675898335440.png">
-Copyright (c) 2023 Cati
+Copyright (c) 2021-2023 Cati
 <br>
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
