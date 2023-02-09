@@ -31,3 +31,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <br>
 <br>
 👀 <b>SOON!<b>
+<br>
+<br>
+<img src="https://media.discordapp.net/attachments/1054134269183791115/1073033534035476540/1675901525050.png">
